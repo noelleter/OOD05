@@ -11,6 +11,7 @@
 		9338B67C2341833700861421 /* LAB_03.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9338B67B2341833700861421 /* LAB_03.cpp */; };
 		9338B6802341836A00861421 /* LAB_02.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9338B67F2341836A00861421 /* LAB_02.cpp */; };
 		9338B6822341837400861421 /* LAB_01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9338B6812341837400861421 /* LAB_01.cpp */; };
+		9338B6842341852200861421 /* LAB_05.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9338B6832341852200861421 /* LAB_05.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		9338B67B2341833700861421 /* LAB_03.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LAB_03.cpp; sourceTree = "<group>"; };
 		9338B67F2341836A00861421 /* LAB_02.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LAB_02.cpp; sourceTree = "<group>"; };
 		9338B6812341837400861421 /* LAB_01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LAB_01.cpp; sourceTree = "<group>"; };
+		9338B6832341852200861421 /* LAB_05.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LAB_05.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 		9338B67123417E3C00861421 /* OOD05 */ = {
 			isa = PBXGroup;
 			children = (
+				9338B6832341852200861421 /* LAB_05.cpp */,
 				9338B6792341832B00861421 /* LAB_04.cpp */,
 				9338B67B2341833700861421 /* LAB_03.cpp */,
 				9338B67F2341836A00861421 /* LAB_02.cpp */,
@@ -128,6 +131,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9338B67C2341833700861421 /* LAB_03.cpp in Sources */,
+				9338B6842341852200861421 /* LAB_05.cpp in Sources */,
 				9338B6822341837400861421 /* LAB_01.cpp in Sources */,
 				9338B67A2341832B00861421 /* LAB_04.cpp in Sources */,
 				9338B6802341836A00861421 /* LAB_02.cpp in Sources */,
